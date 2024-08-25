@@ -1,5 +1,5 @@
 
-# Analyzing Customer Churn in Power B
+# Analyzing Customer Churn in Power BI
 <a name="top"></a>
 ## Table of Contents
 - [Overview](#overview)
