@@ -147,10 +147,15 @@ The dataset used in this project is a snapshot of Databel's customer database at
 
 
 ### Visual Report
-- **Overview Page** 
-- **Demographic and Group Analysis** 
+- **Overview Page**
+  ![image](https://github.com/user-attachments/assets/94d503cb-ccb9-4e43-a3cc-3a8cf50ce8aa)
+
+- **Demographic and Group Analysis**
+  ![image](https://github.com/user-attachments/assets/3ec414c8-5ee5-4048-8aba-44d4e3e325c2)
+
 - **Payment and Contract Analysis** 
- 
+ ![image](https://github.com/user-attachments/assets/27bdaeba-dde7-487b-b80f-aca977f7c15a)
+
 
 
 
